@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MobileShop</string>
+
+    <string-array name="array_Samsung">
+        <item>Note9 128</item>
+        <item>Note9 256</item>
+        <item>S9-Plus</item>
+        <item>S9</item>
+        <item>A9-2018</item>
+        <item>A7-2017</item>
+        <item>A6-plus</item>
+        <item>j8</item>
+        <item>j7 pro</item>
+        <item>j6</item>
+        <item>j4</item>
+        <item>Grand prime pro</item>
+    </string-array>
+
+    <string-array name="array_Iphone">
+        <item>ip x 64 silver</item>
+        <item>ip x 64 black</item>
+        <item>ip 8 64 silver</item>
+        <item>ip 8 128</item>
+        <item>ip 7 128</item>
+        <item>ip 7 64</item>
+
+    </string-array>
+
+    <string-array name="array_Huawei">
+        <item>Y9 2019</item>
+        <item>Y7 2019</item>
+        <item>Y7 2018</item>
+        <item>Y5 2018</item>
+        <item>nove 3</item>
+        <item>nove 3-i</item>
+
+    </string-array>
+
+    <string-array name="array_Nokia">
+        <item>Nokia 8</item>
+        <item>Nokia 7</item>
+        <item>Nokia 6</item>
+        <item>Nokia 5</item>
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
